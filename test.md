@@ -24,5 +24,14 @@ Ist das jetzt kleiner als der Text?
   - PA18
   - PA25
 
+## Checkbox Listen
+
+### Aircraft Types
+
+- [x] ASK16
+- [x] ASK21
+- [ ] Gimli Glider
+
+  
 
 
