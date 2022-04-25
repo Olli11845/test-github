@@ -1,6 +1,6 @@
 # Das ist ein Test
 
-Ich schreibe Wört.
+Ich schreibe Wörter.
 
 Ich fliege gerne
 
@@ -33,7 +33,12 @@ Ist das jetzt kleiner als der Text?
 - [ ] Gimli Glider
 
   ## Link erzeugen
-  Du hast ein Problem? Hier ist die Lösung: Click [here](https://google.com)
+  Du hast ein Problem? Hier ist die Lösung: Click [here](https://google.com) and enter your problem.
+  
+  ## Link zur anderen Überschrift
+  
+  Gehe zur ersten [Überschrift](#neue-überschrift)
+  
   
 
 
