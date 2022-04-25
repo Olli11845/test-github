@@ -15,8 +15,11 @@ Befehlsliste
 - `touch 'Dateiname'` = legt eine Datei an Bsp "touch test.md" legt eine md Datei mit dem Namen test an
 - `rm 'Dateiname'` = "remove" löscht die angegebene Datei
 - `rm -rf 'Ordnername'` = ich lösche den gesamten Ordner (landet auch nicht im Papierkorb)
+- `echo 'Text'` = Dieser Text wird ausgegeben 
+- `echo 'Text' > 'Dateiname'` = Schreibt diesen Text in eine neue Datei, oder falls möglich in eine bestehende
+- `cat 'Dateiname'` = Inhalt der Datei auf Terminal ausgeben
 - 
 - 
 - 
-- 
+
  
