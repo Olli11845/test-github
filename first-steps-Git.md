@@ -1,3 +1,5 @@
 ## First Steps with GIT
 
-test
+GIT --> Schritte verfolgen
+
+
