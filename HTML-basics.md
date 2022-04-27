@@ -61,5 +61,36 @@ Beispiel: meta tag. "google-site-verification"
 
 **body** es kann nur einen body im HTML Dokument geben
 
+## HTML and semantics
+
+Semantic sorgt dafür, dass Menschen und Maschinen es verstehen
+
+Accessability --> Barrierefreiheit. WCAG. nicht nur Blinde, sondern viel weiteres
+
+### SEO
+Search engine optimization
+
+
+## HTML Elements for Document Structure
+
+**Beispiel Zeitung**
+Header
+Main Content
+Articles
+-  Title
+-  Author
+-  Text
+
+Footer
+
+
+
+
+
+
+
+
+
+
 
 
