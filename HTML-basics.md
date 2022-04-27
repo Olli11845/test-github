@@ -38,9 +38,27 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
 
 ### Basic Structure
 
- 
+- A doctype
+- a html element
+- a head element
+- a body element
 
 
+nur ein HTML Dokument in einem HTML Dokument eröffnen! 
+
+im Doktype kann und sollte die Sprache angegeben werden.
+
+
+**head element**
+z.b. Titel und allgemeine Informationen
+
+Das `title` element ist der Titel der gesamten sEite. Es darf nur Text enthalten
+
+`meta` Elemente stellen Meta Informationen bereit. Siehe liste Meta Data https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name
+
+Beispiel: meta tag. "google-site-verification" 
+
+**body** es kann nur einen body im HTML Dokument geben
 
 
 
