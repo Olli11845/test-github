@@ -54,6 +54,7 @@ z.b. Titel und allgemeine Informationen
 
 Das `title` element ist der Titel der gesamten sEite. Es darf nur Text enthalten
 
+Meta Informationen sind Teil des Heads
 `meta` Elemente stellen Meta Informationen bereit. Siehe liste Meta Data https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name
 
 Beispiel: meta tag. "google-site-verification" 
