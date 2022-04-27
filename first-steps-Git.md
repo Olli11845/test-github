@@ -45,8 +45,15 @@ falls man mal `git commit` ohne -m, also ohne MEssage speichert `:` und `q!` um 
  
  `git remote add <name> <url>` Beispiel für github: git remote add origin git@github.com:userName/repo.git .... Der repo Name auf github muss nciht gleich sein
  
+ `git remote add origin https://github.com/Olli11845/git-test.git` = Code aus der Github Beschreibung. ERstellt eine Verbindung
+ 
+ `git push` schiebt von lokal nach Github - Infos fehlen
+ `git push -u origin main` schiebt nach github
+
+
+
+
  
  
- ##weiterschauen bei 1/8 Manage and use remote repositories with git and github
  
  
