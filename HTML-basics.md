@@ -83,14 +83,48 @@ Articles
 
 Footer
 
+https://devdocs.io/html/
 
 
+`header` element. Für das Dokument selbst oder nächste strukturierende Element (Ist das erste Innerhalb)
+<article>
+  <header>
+    <h2>My previous Jobs</h2>
+  </header>
+</article>
 
 
+**Main Element**
+was ist der primäre content unserer Seite.
 
+**aside element**
 
+Inhalt der nur sekundären oder tertiären Rang hat.
 
+**footer element**
+beschreibt abschließende Informationen. Wie zum Beispiel eine Fußnote
 
+**nav element**
+Stellt navigationshilfen. Verweise oder Hinweise für innerhalb des Dokuments
+
+**article**
+repräsentiert TExtzeile, welche in sich geschlossen sinn machen. Semantik. Macht das Thema alleine Sinn?
+
+**section**
+Abgrenzung zum Artikel: Section kann nicht für sich alleine stehen. Ein großer Block, der nicht für sich selber stehen kann
+
+**heading elements**
+h1 - h6. Größe der Überschriften --> Es sollte nur ein h1 element geben.
+Heading levels nicht überspringen
+
+header
+main
+aside
+footer
+nav
+article
+section
+headings
 
 
 
