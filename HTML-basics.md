@@ -174,6 +174,33 @@ Bsp (oben steht der Link wo man drauf klickt. und unten wo es hingeht)
 
 
 
+## Lists
+
+können geordnet oder ungeordnet sein
+`<li> ... </li>`
+
+
+<ol type="i">
+  oder
+<ol type="i" reversed>
+  oder
+<ol>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ol>
+
+A type attribute 
+a lowercase letters
+A for uppercase letters
+i lowercase roman numerals
+I for uppercase roman numerals
+1 for numbers
+  
+  
+  <ul> unordered list
+    
+    
 
 
 
