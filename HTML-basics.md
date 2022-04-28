@@ -126,5 +126,54 @@ article
 section
 headings
 
+## Text Elements
+
+Paragraph fasst kleinere Abschnitte zusammen. Text oder Bilder. <p></p>
+Vom Spacing her stehen Paragraphen isoliert
+
+`blockquote`. Erweitertes Zitat anzeigen
+
+`q` Zitat innerhalb eines Absatzes
+
+`strong` markiert Inhalt als wichtig
+
+`em` Textelement es ist wichtig das jetzt zu machen
+
+`i` italic element markiert es als technischen Begriff
+
+`small`kleingedrucktes
+
+abbreviation `abbr` für Abkürzungen oder Akronyme
+
+`br` brake Zeilenumbruch
+
+`adresse` Kontaktinformationen
+
+
+
+
+## Anchors
+
+Verlinkungen an andere Orte (gleiches Dokument, aber auch andere)
+
+`href` um auf andere Seiten zu verlinken
+
+`<a href="contact.html">Contact form</a>`
+
+Links werden standardmäßig im gleiven Tab geöffnet
+
+Um einen anchor zu nutzen müssen bestimmte bereiche benannt sein.
+
+Bsp (oben steht der Link wo man drauf klickt. und unten wo es hingeht)
+
+`<a href="#contact">Contact Form</a>
+...
+<article id="contact">
+<form> ... </form>
+</article>`
+
+
+
+
 
 
