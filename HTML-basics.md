@@ -209,7 +209,7 @@ if no semantic element is available
 
 2 generische Elemente
   `div` und `span`
-  ** div große Blöcke und span kleine Textteile **  
+  **div große Blöcke und span kleine Textteile**  
   
   div ist eine container or flow content
   
