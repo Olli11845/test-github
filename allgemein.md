@@ -6,3 +6,8 @@ für ein Input FEld sollte man immer ein Label brauchen
 ##### nochmal neu anschauen. Mittag Lesson 26.4.2022
 
 alt Attribut. Kann zum Beispiel eine Bildbeshreibung sein
+
+
+wichtiger Hinweis: box-sizing: border box;
+  wird bei den allermeisten Websites verwendet
+Genau anschauen wie das Box Mode funktioniert
