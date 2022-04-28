@@ -66,5 +66,31 @@ Daher oben drüber: `* (universial selector)
   man legt sich die Schriftarten quasi in einen Warenkob und kann diese dann später per Libk oder import in seinen Code bringen
   **das kommt ins Head Tag**
   
+  ### basic selectors
+   tag selector 
+      ich kann in css bespw ale p (paragraphen ansprechen und sagen p{background-colr: red;}
+  gleiches gilt z.B. für div
+  
+  **class selector**
+  
+  wir können jedem Element klassen zuweisen (in HTML) und dann in CSS sagen, dass alles mit dieser Klasse einen roten Hintergrund bekommt
+  
+  HTML: <p class="fancy">textABC </p>
+  CSS: .fancy{background-color: green;}
+
+  Ein Attribut in HTMl kann mehrere Klassen haben
+  
+  
+  **id selector**
+  
+  in Css beisppielsweise die gewählte id: c2 ansprechen
+  Wichitg: ID nur einfach vergeben
+  
+  #p2 {background-color: hotpink;}
+  
+  
+  
+  
+  
   
   
