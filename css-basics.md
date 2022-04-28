@@ -120,6 +120,16 @@ Daher oben drüber: `* (universial selector)
     }
   
   
+  **universal selector**
+  `*`
+  
+  *{border: 5px solid red;
+  }
+  
+  man kann selectoren auch mit komma auflisten
+  
+  h1, p {background color: hotpink;
+    ]
   
   
   
