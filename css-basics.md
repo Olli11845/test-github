@@ -89,6 +89,37 @@ Daher oben drüber: `* (universial selector)
   #p2 {background-color: hotpink;}
   
   
+  **attribut selector**
+  
+  css: [alt] "also alle Elemente die ein source Attribut gesetzt haben" { border: 5px solid red;
+  }
+  
+  oder
+   css: [alt="phil murray"] "also alle Elemente die ein source Attribut gesetzt haben und phil murray heißen" { border: 5px solid red;
+  }
+  
+  oder
+ 
+   css: [alt="phil murray" i] "also alle Elemente die ein source Attribut gesetzt haben und phil murray heißen" { border: 5px solid red;
+  }  **das i hebelt die groß und kleinschreibung aus**
+  
+  
+  wenn mein Element mit der zeichenkette anfängt
+  
+  [href^="mailto"] {color: red;
+  }
+  
+  wenn mein Element "google"enthält"
+  [href*="google"] {color: red;
+    }
+  
+  
+  
+  wenn mein Element aufhört mit ".pdf"
+  [href$=".pdf"] {font size: 30px;
+    }
+  
+  
   
   
   
