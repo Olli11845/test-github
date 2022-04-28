@@ -166,11 +166,11 @@ Um einen anchor zu nutzen müssen bestimmte bereiche benannt sein.
 
 Bsp (oben steht der Link wo man drauf klickt. und unten wo es hingeht)
 
-`<a href="#contact">Contact Form</a>
-...
-<article id="contact">
-<form> ... </form>
-</article>`
+`<a href="#contact">Contact Form</a>`
+`...`
+`<article id="contact">`
+`<form> ... </form>`
+`</article>`
 
 
 
