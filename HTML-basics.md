@@ -198,9 +198,34 @@ I for uppercase roman numerals
 1 for numbers
   
   
-  <ul> unordered list
-    
-    
+  `<ul>` unordered list
+   
+## generic elements
 
+Design ist kein Teil des HTML Dokuments --> daher braucht man Hilfe
+  
+for styling purposes
+if no semantic element is available
 
+2 generische Elemente
+  `div` und `span`
+  ** div große Blöcke und span kleine Textteile **  
+  
+  div ist eine container or flow content
+  
+  span element is used for generic phrasing content
+  
+  
+  ### div
+  
+  ein container für Elemente.
+  
+  
+  ### span
+  wenn ich einen bestimmten Teil ausschneiden und stylen will
+  
+  
+  
+  
 
+  
