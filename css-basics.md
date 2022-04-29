@@ -185,6 +185,8 @@ Daher oben drüber: `* (universial selector)
   spreche alle Elemente außer dem ersten an. Bsp `li* + *li { margin to: 20px;} fügt eine margin top von 20 ein, aber nicht über dem ersten Element.
   
   
+  **Pseudo Klassen**
+  
   
   pseudo classen
   :first-child erst Element unter zwillingen
