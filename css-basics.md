@@ -186,10 +186,27 @@ Daher oben drüber: `* (universial selector)
   
   
   
+  pseudo classen
+  :first-child erst Element unter zwillingen
+  :last-child 
+  :only-child
+  
+  Beispiel Liste. Das first child ist der erste Element der Liste. Weil Child ist das kind der Liste, also das ELement der Liste
+  
+  
+  only child nur dann wenn die Liste nur ein Kind hat. Also eine Liste mit einem Element wird angegsprochen.
+  
+  child ist immer das Unterelement von Liste. Beispiel. Das child einer Liste ist das element einer liste
   
   
   
   
+  :nth-child(n) --> select dthe nth child. zB 1 oder 3
+  
+  
+  Liste pseudo classes
+  
+  https://developer.mozilla.org/de/docs/Web/CSS/Pseudo-classes
   
   
   
