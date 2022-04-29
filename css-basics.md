@@ -131,7 +131,22 @@ Daher oben drüber: `* (universial selector)
   h1, p {background color: hotpink;
     ]
   
+  ### colors
+  
+  können als RGB RGBA oder RRGGBB RRGGBBAA angesehen werden. Rot gelb grün grün und transparent
+  außerdem gibt es Vorlagen
+  
+  Special keywords
+  `transparend`--- setz den Block auf durchsichtig 
+  `current color` entspricht der aktuell gesetzten Schriftfarbe
+  
+  background standardmäßig transparent, außer beim dokument. da ist es wei´ß
   
   
   
-  
+  currentcolor --> bezieht sich auf eine andere Stelle
+
+  main {
+  color: salmon;
+  border: 5px solid currentColor;
+}
