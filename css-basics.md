@@ -131,7 +131,7 @@ Daher oben drüber: `* (universial selector)
   h1, p {background color: hotpink;
     ]
   
-  ### colors
+  ## colors
   
   können als RGB RGBA oder RRGGBB RRGGBBAA angesehen werden. Rot gelb grün grün und transparent
   außerdem gibt es Vorlagen
@@ -150,3 +150,8 @@ Daher oben drüber: `* (universial selector)
   color: salmon;
   border: 5px solid currentColor;
 }
+  
+  
+  ## selector combinators
+  
+  
