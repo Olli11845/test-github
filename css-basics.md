@@ -154,4 +154,42 @@ Daher oben drüber: `* (universial selector)
   
   ## selector combinators
   
+  kombiniert mehrere Selektoren. und können so Dinge abfragen
+  
+  **descendend combinator**
+  Selectoren sind mit leerzeichen getrennt
+  beispiel
+  `main div { }` --> suche alle divs die im main sind.
+  
+  
+  **child kombinator**
+   `main > div` alle divs die **direkte** Kinder von main sind werden ausgewählt. Wenn das div bspw. noch in einem article ist wird es nicht angesprochen
+  
+  
+  **Adjacent Sibling combinator**  Angrenzender Geschwister Kombinator
+  
+  `main+div` wähle alle div's aus, welche nach dem main kommen.
+  
+  Geschwisterelement bedeutet, dass es die gleiche ebene ist
+  
+  
+  **General Sibling Combinator**
+ 
+  `main ~ div` --> das div wird angesprochen wenn es ein Geschwisterelement, also ein Element auf gleicher ebene hat. in diesem Fall gefragt nach main
+  
+  
+  **lobotomized owl selector**
+  
+  `* + *` https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/
+  
+  spreche alle Elemente außer dem ersten an. Bsp `li* + *li { margin to: 20px;} fügt eine margin top von 20 ein, aber nicht über dem ersten Element.
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
