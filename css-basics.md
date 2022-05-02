@@ -242,7 +242,43 @@ legt Importance, Specify und Origin fest.
   bei gleicher spezifität --> dann das was als letztes kommt
   
   
+  reihenfolge spezifisch, `*`; Tag selectoren: `p`or `div` ; class selectoren .nav oder .main-content ; Attribut Selektroren [title] or [href] ; pseudo classes :hover oder :focus ; Inline styles main style="color:red">  </main>
   
   
+  ### Inheritance
   
+  ist nicht Teil der Kaskade, aber beeinflusst diese.
+  
+  beschreibt was für ein property Value genutzt wird, wenn keiner gesetzt ist. Bspw schriftfarbe ist von anfang an schwarz.
+  vererbte propertys haben mit text zu tun. werden als ao kinder vererbt
+  
+  border properties nicht
+  
+`inherit` = man kann sagen vererbe dinge wie zb. Padding, obwohl dies eigentlich nicht der Fall ist
+`initial` =  etwas was eigentlich vererbt wird soll nicht vererbt werden
+`unset` = man kann alle vererbten Werte in CSS zurücksetzen
+Bsp wenn man was eigenes bauen will, ohn eaufvorgefertigtes zurückzugreifen. `all:unset`
+  
+
+  
+  ### reset normalize and fallback
+  
+  Thema: Konflikte mit Browsern
+  
+  **reset.css**
+  z.b. die meisten Werte werden zurückgesetzt auf 0
+  Viele Framworks machen das so
+  code in den Head dann hat man es resettet
+  
+  **normalize.css**
+  weniger extrem. Standards die keine Probleme verursachen werden beibehalten
+  
+  **Wichtig wenn eine der beiden Dateien geladen wird muss das im head als erstes passieren, sonst wird es evtl zurückgesetzt**
+  
+  Fallbacks:
+  Zum Bsp für ältere Browser
+  Browser ignorieren dinge die sie nciht kennen
+  man setzt erst einfache Sachen die immer gehen und überschreibt diese dann mit neuen Dingen (welche ggf noch nicht überall gehen)
+  
+  logischer Fallback wäre zb dafür zu sorgen , dass die hinterste Background color immer so ist, dass man die SChrift lesen kann, auch wenn bilder o.ä. nicht geladen werden können
   
