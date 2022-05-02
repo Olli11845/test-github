@@ -212,3 +212,37 @@ Daher oben drüber: `* (universial selector)
   
   
   
+  
+  ### pseudo elements
+  
+  müssen erst aktiviert werden
+  
+  `::before`
+  `::after`
+  
+  `h1::before {content: 'Herzzeichen'` } dann kommt vor dem h1 ein Herz
+  
+  `::first-letter` erstes Zeichen kann verändert werden. z.b. font-site 400%
+  
+  `::first-line` die erste Zeile wird verändet
+  
+  `::selection` wie soll eine Auswal aussehen. Beispiel Background Color green
+
+  
+  ## CSS Cascade
+  
+Cascade definiert welche Styles auf den Elementen angesprochen werden, wenn es Dopplungen gibt. 
+legt Importance, Specify und Origin fest.
+
+  `!important` erhöht die Wichtigkeit. Am ende eines styles
+  kann mit einem anderen important quasi überschrieben werden
+  
+  darunter steht wie spezifisch etwas ist. je spezifischer desto höherwertiger
+  
+  bei gleicher spezifität --> dann das was als letztes kommt
+  
+  
+  
+  
+  
+  
