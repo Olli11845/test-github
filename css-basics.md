@@ -282,3 +282,7 @@ Bsp wenn man was eigenes bauen will, ohn eaufvorgefertigtes zurückzugreifen. `a
   
   logischer Fallback wäre zb dafür zu sorgen , dass die hinterste Background color immer so ist, dass man die SChrift lesen kann, auch wenn bilder o.ä. nicht geladen werden können
   
+### Display Block  
+`display:block`
+`width` `height`
+
