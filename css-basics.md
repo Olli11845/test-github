@@ -289,4 +289,10 @@ Bsp wenn man was eigenes bauen will, ohn eaufvorgefertigtes zurückzugreifen. `a
 Inline Elements
 `Display:Inline`
 
+### Display property and Flow Layout
+
+inline-block > Mischung aus Block und inline Element
+inline Block aht im Gegensatz zu inline eine feste Breite
+
+
 
