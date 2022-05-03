@@ -301,3 +301,35 @@ inline Block aht im Gegensatz zu inline eine feste Breite
 `direction`kann für jedes Element angegeben werden, aber wird in der Regel pro Dokument genannt. `rtl` oder `ltr`right to left oder left to right
 
 
+### Position property
+top, bottom, left, right
+
+es wird zwischen positionierten und nciht positionierten unterschieden
+
+position:static --> das ist der Standard und nciht positioniert. Offset propertys haben hier noch keine Wirkung
+
+position:realtive das Objekt gilt als positioniert
+positionierte Elemente sind immer über nciht positionierten
+
+position:absolute --> das Elemet verschwindet aus dem document flow. 
+  wenn keine weiteren positionen gegeben bleibt es an der position und schrumpft auf die content Größe
+  positionsangaben werden vom containing Block gegeben. (im Fall des Videos. Elternelement ist main. Wichtig: **es macht einen unterschied ob main position static oder relative ist** wenn main als positioniert gilt bezieht sich das Element nicht darauf)
+
+
+position: fixed
+genauso wie position absolut. Verhält sich genau wie position absolut, aber bezieht sich immer auf den sichtbaren Teil des Dokuments. Also den contaning block. bzw viewport:
+
+
+position: sticky
+Stoppt an bestimmter Stelle zu scrollen
+
+**Zusammenfassung:** 
+static / nicht positioniert /
+relative / positioniert/ normal flow + offsets
+absolute / positioniert / normal flow + offsets
+fixed / positioniert / Viewport + offsets
+sticky / positioniert / Scrolling ancestor + offsets
+
+
+
+
