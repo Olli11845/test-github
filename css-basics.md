@@ -348,4 +348,12 @@ vmin smaller axis of the viewport
 vmax larger axis of the viewport
 Angaben in Prozent
 
+absolute units
+z.b. px, cm, mm
+
+
+Absolute EInheiten können Probleme bei der Acessability auslösune --> relative Einheiten benutzen!
+
+Percentage bei Längen
+auch möglich, aber kann Probleme beim Bezug auslösen
 
