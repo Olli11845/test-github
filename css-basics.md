@@ -331,5 +331,10 @@ fixed / positioniert / Viewport + offsets
 sticky / positioniert / Scrolling ancestor + offsets
 
 
+## Längen
+bei 0 keine Einheit nötig
+em equal M --> 1em ist das gleiche wie font-size. Also größe Schrift=16px=1em
+
+rem --> wie em aber es bezieht auf die root schrift, also in der regel HTML
 
 
