@@ -339,3 +339,13 @@ rem --> wie em aber es bezieht auf die root schrift, also in der regel HTML
 
 ch --> pass sich an die Länge an. ideal length between 45 and 75 characters , wenn max width 50ch
 
+
+viewport unit immer abhängig vom aktuellen sichtbereich
+
+vw viewport width
+vh viewport height
+vmin smaller axis of the viewport
+vmax larger axis of the viewport
+Angaben in Prozent
+
+
