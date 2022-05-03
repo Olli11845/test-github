@@ -295,4 +295,9 @@ inline-block > Mischung aus Block und inline Element
 inline Block aht im Gegensatz zu inline eine feste Breite
 
 
+`display-none` Element wird vollständig aus dem Code entfernt
+´display-hidden`Elemt wird nur unsichtbar
+
+`direction`kann für jedes Element angegeben werden, aber wird in der Regel pro Dokument genannt. `rtl` oder `ltr`right to left oder left to right
+
 
