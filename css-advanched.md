@@ -31,7 +31,6 @@ Beispielsweise hat man 3 Elemente. Eines kriegt eine flex grow 1 und die anderen
 `flex-shrink` genau wie grow, aber mit schrumpfen, wenn die box zu klein ist
 
 
-
 `flex-basis`setzt die main size von einem Item. Verbunden mit der jeweiligen direction. also länge oder breite
 standardmäßig auf auto. Das Element benutzt quasi das was möglich ist
 
@@ -67,3 +66,37 @@ color stabs geben das Ende eines Verlaufes an
 
 background-image: linear gradient(salmon 0%, dodgerblue 60%, gold 100%) 
 
+background-size --> contain (originalgröße) und cover (vollständig ausfüllen). das macht Sinn für Bilder
+
+background size --> auto; keep original size
+
+
+background repeat: (repeat; no repeat(-x oder -y); space; round) wenn es leere Felder gibt wird das Bild wiederholt
+
+
+
+background-position-x und background-position-y; top, bottom, left, right, center
+shorthand background position: (x) (y)
+
+
+`background-clip`= border-box, content-box, padding-box  --> worin soll es angezeiugt werden
+oder
+background-clip:text;
+
+
+wenn mehrere erst immer alle bilder
+bild1
+bild2
+bild3
+
+wenn man nur eine Angabe macht gilt das für alle. ansonsten als Beispiel:
+
+background repeat
+no-repeat, wichtig mit komma getrennt
+no-repeat
+repeat
+
+
+gradienten tool: https://cssgradient.io/
+
+https://projects.verou.me/css3patterns/
