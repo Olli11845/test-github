@@ -48,3 +48,22 @@ flex 1 2 100px   --> grow, shrink, basis
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 Spiel mit Fröschen: https://flexboxfroggy.com/#de
+
+
+## background images and gradients
+
+background images können gestapelt werden
+rgb oder hsl
+bzw rgba oder hsla
+
+backround-image und die url funktion url(fileUrl)
+
+verlauf `linear-gradient(25deg,salmon, hotpink)`
+z.b linear-gradient(red-blue)
+
+Die richtung kommt über Befehle Degrees, Turn(.25turn), Keywords(to right, to left,
+
+color stabs geben das Ende eines Verlaufes an
+
+background-image: linear gradient(salmon 0%, dodgerblue 60%, gold 100%) 
+
