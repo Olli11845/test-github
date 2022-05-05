@@ -133,5 +133,30 @@ https://css-tricks.com/a-complete-guide-to-custom-properties/
 
 
 
+##Transitions
+ux = User Interface
+
+transition = Ein animierter Übergang
+das kann getriggert werden von Javascript oder von user action
+
+transition-property < normalerweise benutzt man das
+...-duration
+-timing
+-delay
+
+**.class {
+transition: background-color .5s; 
+}
+also was erändert
+
+**.class:hover {
+background-color:salmon;
+}
+wohin er es ändert
+**
+
+
+
+
 
 
