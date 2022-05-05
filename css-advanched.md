@@ -100,3 +100,7 @@ repeat
 gradienten tool: https://cssgradient.io/
 
 https://projects.verou.me/css3patterns/
+
+Übungen:
+cssbattle.dev
+
