@@ -104,3 +104,34 @@ https://projects.verou.me/css3patterns/
 Übungen:
 cssbattle.dev
 
+
+## custom properties im HTML Selector, also weit oben
+präfix 
+`--`
+html {
+--theme-color: black;
+}
+
+main {
+color var(--theme-color)
+}
+
+Man kann also zentrale Werte der Seite verändern
+
+Man kann bspw. für ganze klassen eine Farbe definieren und dann im HTML eine klasse zuordnen
+
+**Einwurf: mehrere Klassen in HTML zuordnen: class:"eins zwei"**
+
+
+Custom properties werden vererbt
+
+
+fallback value.
+Ich kann sagen: greife auf custom property zu, aber wenn es keine gibt nimm den: var(--text-color, blue)
+
+https://css-tricks.com/a-complete-guide-to-custom-properties/
+
+
+
+
+
