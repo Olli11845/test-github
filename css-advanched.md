@@ -155,8 +155,27 @@ background-color:salmon;
 wohin er es ändert
 **
 
+`transition-prpoerty` --> welche eigenschaft soll animiert werden!!!
+
+man sollte keine prpoerties ändern die alles zerschießen, width padding etc. außerdem sehr systemlastig
+
+beste performance `òpacity` and `transform`
 
 
+
+`transition-duration` standard = 0sek
+
+
+transition-timing-function --> beschleunigung oder verlangsamung
+
+eease
+linear
+ease-in
+ease-out
+ease-in-out
+steps
+
+--> cubic-bezier.com
 
 
 
