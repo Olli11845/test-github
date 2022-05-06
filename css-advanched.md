@@ -187,7 +187,9 @@ translateX(tx)
 translatey(ty
 translate z(tz)
 
-absolute Werte verwenden. px em etc.
+absolute Werte verwenden. px em etc. oder prozentwerte. diese beziehen sich dann auf die größe des Elements selbst
 
-
+rotate(deg)
+rotateX(deg)
+rotateY(deg)
 
