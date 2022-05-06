@@ -179,6 +179,8 @@ steps
 
 
 ### transform
+transform ist das Ziel, während transition der Weg ist
+
 translate, scale, rotate skew
 
 translate(tx, ty, tz) 
@@ -192,4 +194,32 @@ absolute Werte verwenden. px em etc. oder prozentwerte. diese beziehen sich dann
 rotate(deg)
 rotateX(deg)
 rotateY(deg)
+
+transform origin ist die mitte des elements
+
+
+transform origin: x-offset y-offset z-offset
+
+definiert die Mitte um zu sagen an welchem Punkt es ansetzt. Standard: 50% 50% 0
+
+scale funktion. Wie soll eine eleemt skaliert werden. 1 ist Standard. negative WErte drehen
+kann gesamt gemacht werden, aber auch einzeln
+
+scale(s)
+scale(sx,sy)
+scale(sx,sy,sz)
+scaleX(s) or scaleY(s)
+
+
+aufpassen trigger zittern verhindern indem man umliegendes object anspricht
+body: hover div{
+transform: translateX(10%}
+}
+In diesem Fall -> wenn man die Maus über den Body hovert wird das div angesprochen und das ausgeführt
+
+recap
+transform-origin = setz den fixpoint fest
+
+
+
 
