@@ -178,4 +178,16 @@ steps
 --> cubic-bezier.com
 
 
+### transform
+translate, scale, rotate skew
+
+translate(tx, ty, tz) 
+oder einzeln
+translateX(tx)
+translatey(ty
+translate z(tz)
+
+absolute Werte verwenden. px em etc.
+
+
 
