@@ -222,4 +222,41 @@ transform-origin = setz den fixpoint fest
 
 
 
+## CSS Grid
+
+display:grid --> für 2  dimensionale Sachen
+besteht aus Zeilen und Spalten
+
+Die kinder werden Zeilen und spaltenweise einsortiert
+Grid cell, grid-track(zeile) , grid-line, grid items(Kinderelemente), Grid-area (mehrere Zellen)
+
+**wichtiger Link eingeworfen: https://every-layout.dev/**
+
+`grid-template-columns` wir können spaltenbreiten definieren. % heißt breite des Containers es gibt auch auto
+
+fr unit eine größenangabe. teilt den Rest auf, arbeitet also mit Anteilen
+
+`auto` reduziert den übrigen Platz, wenn der Container zu klein ist. wenn der Container zu groß ist kommt aber eine Scrollbar
+
+`min-content` soll die Box so klein wie möglich machen
+`max-content`die Zeile ist breit genug für den content
+
+auch hier möglich
+`justify-content` sortiert alle Zellen innerhalb des Grids. Beschreibt quasiwie man mit leerem Platz umgeht
+
+`align-content`
+. wie übliche. sekundäre Achse. start, end, center
+
+
+´grid-template-rows` genauso wie Spalten
+
+wenn zu wenig Spalten für den Content sind rutscht es in Zeilen. Ohen definition so groß wie nötig
+
+für Platz dazwischen. `grid-column-gap` `grid-row-gap`oder shortcut für beide `grid-gap`
+
+was noch fehlt: Named grid areas, span keyword
+https://css-tricks.com/snippets/css/complete-guide-grid/
+https://cssgridgarden.com/#de
+
+
 
