@@ -11,3 +11,6 @@ alt Attribut. Kann zum Beispiel eine Bildbeshreibung sein
 wichtiger Hinweis: box-sizing: border box;
   wird bei den allermeisten Websites verwendet
 Genau anschauen wie das Box Mode funktioniert
+
+https://sql-island.informatik.uni-kl.de/
+https://every-layout.dev/
