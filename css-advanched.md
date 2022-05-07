@@ -258,5 +258,23 @@ was noch fehlt: Named grid areas, span keyword
 https://css-tricks.com/snippets/css/complete-guide-grid/
 https://cssgridgarden.com/#de
 
+`grid-column-start: 5;` angesprochen wird die 5. Spalte vom sTart aus
+
+#water {
+  grid-column-start: 1;
+grid-column-end: 4;
+}
+
+Das Element water umfasst nun die Zellen 1,1 1,2 1,3 --> meine Schreibweise
+
+#water {
+  grid-column-start: 2;
+grid-column-end: span 2;
+}
+
+Das Element beginnt bei Spalte 2 und hat dann eine Spanne von 2
+
+grid-column: 2/5;
+Bedeuete Spalte von bis;
 
 
