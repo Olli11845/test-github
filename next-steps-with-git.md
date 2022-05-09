@@ -44,3 +44,5 @@ git checkout
   
   
   
+  **Anmerkung: wie man html und css verbindet kommt in der live session vom 9.5.2022**
+  
