@@ -14,3 +14,6 @@ Genau anschauen wie das Box Mode funktioniert
 
 https://sql-island.informatik.uni-kl.de/
 https://every-layout.dev/
+
+
+Live Session 3.5.22 interessant. Positionierung Tabellen
