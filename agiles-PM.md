@@ -45,6 +45,13 @@ SChnittstzelle zwischen product owner und team
 weder scrum master noch product owner sind disziplinarische Vorgesetze. dAs führt zu Konflikten
 
 
+
 **Die Rituale**
+Sprint: am Ende des Sprints muss man etwas sichtbares haben. Das heißt nicht dass man mit Überschriften hinrennt
+Dauer: min 1 Woche und höchstens 1 Monat
+Alle Teams sollten die gleiche Sprintlänge haben
+Keine Änderungen vornehmen die das Sprintziel gefährden
+Qualitätsanspruch nicht verringern. Wenn es zeitlich nicht passt kann man es alle 2 Wochen korrigieren
+Jeder Sprint hat ein Ziel was erreicht werden soll
 
 
