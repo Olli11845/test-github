@@ -71,5 +71,9 @@ was behindert mich dabei?
 
 **Sprint Review**
 
+Team stellt die Arbeit vor. Keine PowerPoint sondern am Produkt
+kann auch sein wir haben Sprint Ziel nicht erreicht, weil...?
+
+
 
 
