@@ -57,3 +57,19 @@ Jeder Sprint hat ein Ziel was erreicht werden soll
 
 
 
+**daily scrum**
+
+das ist kein reporting.
+nur das team stimmt sich ab wie es läuft.
+theorie: die nächsten 24h werden geplant
+Dauer: 15 Minuten
+
+was habe ich gestern getan?
+was tue ich heute?
+was behindert mich dabei?
+
+
+**Sprint Review**
+
+
+
