@@ -73,6 +73,10 @@ was behindert mich dabei?
 
 Team stellt die Arbeit vor. Keine PowerPoint sondern am Produkt
 kann auch sein wir haben Sprint Ziel nicht erreicht, weil...?
+Auch die Manager sind dabei!
+
+**Retrospektive**
+alle 2 Wochen. Was ist im Team gut gelaufen.
 
 
 
