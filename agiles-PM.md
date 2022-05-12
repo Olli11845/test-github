@@ -55,3 +55,5 @@ Qualitätsanspruch nicht verringern. Wenn es zeitlich nicht passt kann man es al
 Jeder Sprint hat ein Ziel was erreicht werden soll
 
 
+
+
