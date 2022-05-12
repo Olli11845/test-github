@@ -42,4 +42,9 @@ Wichtig: Verantwortung als Team und nciht als einziger
 Scrum MAster: ISt derjenige der das Team coacht und den product owner unterstützt. Derjenige mit der meisten Erfahrung
 SChnittstzelle zwischen product owner und team
 
+weder scrum master noch product owner sind disziplinarische Vorgesetze. dAs führt zu Konflikten
+
+
+**Die Rituale**
+
 
