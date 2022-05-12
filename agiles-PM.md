@@ -75,9 +75,19 @@ Team stellt die Arbeit vor. Keine PowerPoint sondern am Produkt
 kann auch sein wir haben Sprint Ziel nicht erreicht, weil...?
 Auch die Manager sind dabei!
 
-**Retrospektive**
+**Retrospektive** --> expect and adapt
 alle 2 Wochen. Was ist im Team gut gelaufen.
 
+In Bezug auf Aufgaben und Angewohnheiten etc.
+Start
+Stop
+Keeps
+
+**Action Items:**
+Das Ergebnis der Retrospektive
+
+Product backlog: alles was jetzt bekannt ist was im Produkt sein soll
+Auch das Team kann Tasks im Backlog hinzufügen
 
 
 
