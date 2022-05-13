@@ -122,3 +122,7 @@ Abhängigkeiten außerhalb vom Team vermeiden.
 
 Alignment: wird viel zu oft genutzt um nach reportings zu fragen
 Passiert eigentlich durch Kooperation und Zusammenarbeiten
+
+Helden können ein Problem sein. Sie machen sich selbst kaputt
+
+
