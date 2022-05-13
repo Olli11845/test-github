@@ -92,4 +92,6 @@ Auch das Team kann Tasks im Backlog hinzufügen
 
 Dreieck. Scope, budget, Time. Qualität ist nciht verhabdelbar
 
+Man muss das Warum des USers verstehen!
 
+Schätzen --> heißt SCHÄTZEN!!! Keine feste Angabe
