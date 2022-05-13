@@ -90,4 +90,6 @@ Product backlog: alles was jetzt bekannt ist was im Produkt sein soll
 Auch das Team kann Tasks im Backlog hinzufügen
 
 
+Dreieck. Scope, budget, Time. Qualität ist nciht verhabdelbar
+
 
