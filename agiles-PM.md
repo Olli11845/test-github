@@ -126,3 +126,9 @@ Passiert eigentlich durch Kooperation und Zusammenarbeiten
 Helden können ein Problem sein. Sie machen sich selbst kaputt
 
 
+Fragen stellen um herauszufinden wie es läuft
+Habt ihr Scrum Master und product Owner?
+Wie viele Leute sind in euren Teams?
+Team kennenlernen bevor man anfängt...? Wenn eine gute Antwort kommt sind sie modern.
+
+
