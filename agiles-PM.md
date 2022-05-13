@@ -100,3 +100,12 @@ Schätzen --> heißt SCHÄTZEN!!! Keine feste Angabe
 **Story Points**
 
 Jedes Team hat seine eigene SChätzgröße für Aufwand. WICHTIG: Eine Schätzung im Aufwand darf nicht in ZEit umgerechnet werden.
+
+
+Jedes Team durchläuft Phasen
+1 höflich forming
+2  Cliquenbildung storming
+3 offene Konfrontationen norming
+4 ideenreich performing
+
+Team braucht Prinzipeien. Wann ist Sprint? Wie arbeiten wir zusammen?
