@@ -109,3 +109,6 @@ Jedes Team durchläuft Phasen
 4 ideenreich performing
 
 Team braucht Prinzipeien. Wann ist Sprint? Wie arbeiten wir zusammen?
+
+
+Abhängigkeiten außerhalb vom Team vermeiden.
