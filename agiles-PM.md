@@ -95,3 +95,8 @@ Dreieck. Scope, budget, Time. Qualität ist nciht verhabdelbar
 Man muss das Warum des USers verstehen!
 
 Schätzen --> heißt SCHÄTZEN!!! Keine feste Angabe
+
+
+**Story Points**
+
+Jedes Team hat seine eigene SChätzgröße für Aufwand. WICHTIG: Eine Schätzung im Aufwand darf nicht in ZEit umgerechnet werden.
