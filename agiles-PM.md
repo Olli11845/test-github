@@ -112,3 +112,8 @@ Team braucht Prinzipeien. Wann ist Sprint? Wie arbeiten wir zusammen?
 
 
 Abhängigkeiten außerhalb vom Team vermeiden.
+
+
+
+Alignment: wird viel zu oft genutzt um nach reportings zu fragen
+Passiert eigentlich durch Kooperation und Zusammenarbeiten
