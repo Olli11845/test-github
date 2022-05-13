@@ -33,6 +33,11 @@ Product Owner braucht Entscheidungsbefugnis (Spruch: er ist product owner wenn e
 product onwer sind Produktmanager im agilen Bereich
 Product Owner ist derjenige der den ganzen Tag in Meetings sitzt und sein Prdokut verteidigt.
 
+
+Leute haben keine Angst vor Veränderungen, sondern vor Verlusten.
+
+
+
 Das Entwicklungsteam
 Im Scrum: 3 - 9 Mitglieder
 
