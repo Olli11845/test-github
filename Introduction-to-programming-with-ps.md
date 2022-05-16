@@ -87,3 +87,24 @@ random(10); Einen wert zwischen 0 und 10
 Random(5.01,6.10)
 
 
+## Variables
+
+let variableName = VariableWert
+
+let  muss einmal definiert werden und kann sich danach verändern
+
+alt: `var` in GEdanken zu let ändern.
+
+Schreibart: camelCase. Name darf nicht kollidieren mit Keywords
+
+auf Reihenfolge der Deklaration achten!
+
+
+##Scopes
+
+Sichtbarkeit der Variable hängt davon ab wo sie deklariert wurde. Beispiel: Innerhalb einer function nur nach unten weiter
+
+
+
+
+
