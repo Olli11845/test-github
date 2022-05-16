@@ -113,5 +113,15 @@ Refactoring: Wir ändern den Code ab. ZB auf eine neue Version
 
 
 
+### Data Types, Expressions und Operators
+
+undefined heißt sie ist deklariert aber noch kein Wert bekannt
+Number
+String
+Boolean
+
+Special values undefined und null
+
+in die selbe Variable niemals verschiedene Datentypen reinschreiben
 
 
