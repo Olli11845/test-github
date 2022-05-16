@@ -17,3 +17,18 @@ https://every-layout.dev/
 
 
 Live Session 3.5.22 interessant. Positionierung Tabellen
+
+variable1 ++;
+
+dieser Code besagt quasi
+
+variable1= variable1 + 1;
+
+**Aufbau einer Funktion mit der Variable message**
+function output(message){
+console.log(message);
+}
+
+Abrufen der Funktion
+
+function("Hello World");
