@@ -38,4 +38,7 @@ function("Hello World");
 == Sind zwei Werte gleich?
 === Sind werte und Datentyp gleich?
 
+Wenn wir true falls abfragen vor zB elseif machen müssen wir nicht noch schreiben === true. Sondern JS geht automatisch dann ausgegangen wird, dass etwas gemacht werden soll, wenn es wahr ist.
+
+wenn wir beispielsweise x=true haben kann man das umkehren zu !x=false
 
