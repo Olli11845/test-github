@@ -54,3 +54,36 @@ oder multiline comments
 */
 
 console.log("This is a setup function");
+
+
+### drwaing
+
+background(0,0,255);
+es gibt x und y achse
+farben von 0 blak bis 255 white
+255,0,0 --> RGB
+Namen wie in css geht auch
+
+circle (200,200,100) bei 200/200 100 groß
+
+rect also REchteck function
+rect(x koordinate, y koordinate, x Länge, y Länge)
+
+
+stroke() und fill()
+stroke definiert die outline color stroke(color);
+fill(color);
+
+noStroke(); geht auch
+
+strokeWeight(); wie dick ist der Rand
+
+
+### mouse interaction and randomness
+mouseX und mouseY sind variablen und geben so die Position der Maus an
+draw kann erzeugt werden, wenn background function ausgelassen wird.
+
+random(10); Einen wert zwischen 0 und 10
+Random(5.01,6.10)
+
+
