@@ -104,6 +104,13 @@ auf Reihenfolge der Deklaration achten!
 
 Sichtbarkeit der Variable hängt davon ab wo sie deklariert wurde. Beispiel: Innerhalb einer function nur nach unten weiter
 
+Variablen die in einem Block definiert sind, sind nur in diesem Block sichtbar. Eine Definition geht auch nciht aus dem Block raus.
+Bei VAR ist es anders. Da gehen werte aus der function raus
+
+Außerhalb von Funktionen: Global Scope
+
+Refactoring: Wir ändern den Code ab. ZB auf eine neue Version
+
 
 
 
