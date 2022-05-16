@@ -32,3 +32,10 @@ console.log(message);
 Abrufen der Funktion
 
 function("Hello World");
+
+Überprüfen
+
+== Sind zwei Werte gleich?
+=== Sind werte und Datentyp gleich?
+
+
