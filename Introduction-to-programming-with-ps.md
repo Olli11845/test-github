@@ -145,4 +145,18 @@ Implicit ist coercions ist der GRund warum andere JavaScript hassen
 0 kann als false gesehen werden
 Bei beiden wenn man mit == arbeitet
 
+### functions
+
+funktionen führe eine Aktion aus
+Funktionen können Parameter haben
+Funktionen können putput Values haben
+
+in () kommen die Values, welche in die Funktion wollen
+
+
+**um einen Output zu bekommen...**
+`return`
+in die function schreiben. Was vor function steht wird ausgegeben
+
+
 
