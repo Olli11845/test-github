@@ -131,4 +131,19 @@ in die selbe Variable niemals verschiedene Datentypen reinschreiben
 ==
 ===
 
+Immer den strict equal operator benutzen `===`
+
+AND &&
+OR ||
+
+logical not !
+dreht true in false und umgekehrt
+
+
+Implicit ist coercions ist der GRund warum andere JavaScript hassen
+1 kann als true gesehen werden
+0 kann als false gesehen werden
+Bei beiden wenn man mit == arbeitet
+
+
 
