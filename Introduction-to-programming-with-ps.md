@@ -146,4 +146,3 @@ Implicit ist coercions ist der GRund warum andere JavaScript hassen
 Bei beiden wenn man mit == arbeitet
 
 
-
