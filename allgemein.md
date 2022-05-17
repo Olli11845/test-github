@@ -33,6 +33,12 @@ Abrufen der Funktion
 
 function("Hello World");
 
+
+### Checkpoint 1
+
+für breiten kann man nehmen width: min(600px,100%);
+
+
 Überprüfen
 
 == Sind zwei Werte gleich?
