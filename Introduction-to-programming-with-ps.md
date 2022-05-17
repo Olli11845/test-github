@@ -159,4 +159,20 @@ in () kommen die Values, welche in die Funktion wollen
 in die function schreiben. Was vor function steht wird ausgegeben
 
 
+`text`
+`keyIsPressed`
+`key`
+" Bsp: key === "1" "
+
+
+Diese beiden kombiniert kann zum umstellen von Farben genutzt werden
+
+**Wichtig. Switch Cases**
+Können große if-else Bäume ersetzen
+switch('Bedingung'):
+...
+break;
+switch('')...
+
+default:  <--- Das ist der Standard
 
