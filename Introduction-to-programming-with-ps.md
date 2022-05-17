@@ -124,4 +124,11 @@ Special values undefined und null
 
 in die selbe Variable niemals verschiedene Datentypen reinschreiben
 
+>
+<
+>=
+<=
+==
+===
+
 
