@@ -201,3 +201,23 @@ löscht den key innerhalb des Objekts
 
 Increment und Decrement
 varName++ oder varName--
+
+
+### Value and Reference
+es gibt primitive und strukturelle Datentypen
+
+diese werden abgerufen über call by value und call by reference
+
+
+primitive datentypen: number, string, boolean
+structural Types: Array, Object
+
+call by value
+a=0
+b=a
+a=1
+console.log ==> b bleibt 0
+
+
+call by reference
+variable hält nur eine Referenz auf das Objekt. Änderungen des Objektes gehen mit
