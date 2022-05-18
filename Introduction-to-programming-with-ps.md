@@ -221,3 +221,35 @@ console.log ==> b bleibt 0
 
 call by reference
 variable hält nur eine Referenz auf das Objekt. Änderungen des Objektes gehen mit
+
+
+### Arrays
+werden über eckige Klammern definiert []
+Einträge über Klammern getrennt
+zero based --> erster Eintrag immer an der 0. Stelle
+let names ["Peter", "Paul" ,"Mary"]
+
+Adding new items:
+nameArray.push()
+wird an der letzten stelle eingesetzt
+
+nameArray.length --> gibt die Länge des Arrays aus
+
+um einzeln Werte zu ändern mussen diese überschrieben werden.
+
+
+### Loops
+for of Schleife
+for(let 'name' of 'nameOfArrayforExample') {
+}
+
+for Schleife
+for(let i=0; i<5;i++){
+}
+
+do-while loop
+do{....}
+while(Bedingung); do-while wird mindestens einmal ausgeführt
+
+while loop wird nicht zwangsläufig ausgeführt
+
