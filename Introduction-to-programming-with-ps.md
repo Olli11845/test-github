@@ -176,3 +176,28 @@ switch('')...
 
 default:  <--- Das ist der Standard
 
+**Fade out effect**
+Es wird über ein statisches Bild immer wieder ein neuesLayer drübergelegt. Wenn man das ganz an die Mausposition setzt und dynmaisch macht bekommt man eine Spur
+
+Kurzschreibweise 
++= für a=a+1
+
+**Javascript Objekte** Objekt ist ein Datenspeicher
+
+**Wichtig**
+let person {name: "Peter" , age: 99}
+
+let comet {
+x=0,
+y=0}
+
+Key names in lower Case schreiben
+Keys löschen
+`delete`
+
+delete Pos.x;
+löscht den key innerhalb des Objekts
+
+
+Increment und Decrement
+varName++ oder varName--
