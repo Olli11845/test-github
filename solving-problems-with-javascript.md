@@ -33,6 +33,10 @@ string.replace("was ich suche","durch was ich es ersetze"); Nur der erste genann
 
 string.replaceAll("was ich suche","durch was ich es ersetze"); alle gesuchten Objekte werden umbenannt.gibt den neuen String zurück. der Alte wird nciht verändert
 string.split(). ich bekomme ein Array zurück. benötigt einen Seperator. Wenn kein Seperator gegeben wird nach jedem Zeichen aufgetrennt
+
+
+array.filter() gibt ein gefiltertes Ergebnis zurück <br>![array filter](https://user-images.githubusercontent.com/104325830/169516017-6cffa433-4f06-4a00-a794-6f0b5c4934a5.JPG)
+ <br>
 sentence.split(""); ich bekomme jeden Buchstaben einzeln dargelegt. (" ") Seperator ist ein Leerzeichen
 
 string.IndexOf(" ") sucht einen gegebenen String und gibt die erste Position dieses Strings. Also in diesem Fall Position des ersten Leezeichens
