@@ -97,6 +97,11 @@ array.sort() -- findet auf Basis von strings statt. Also wird i Strings gewandel
 www.playcode.io
 
 
+nochmal schauen: anonyme Funktionen!
+
+
+Katas = quasi eine Coding Aufgabe
+
 
 
 
