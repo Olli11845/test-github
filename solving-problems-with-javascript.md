@@ -22,3 +22,51 @@ MDN und API anschauen
 aufpassen bei groß und kleinschreibung
 
 wichtig: devdocs.io
+
+
+jede Variable die einen String aufruft kann eine Reihe von BEfehlen ausführen "stringName.Befehle"
+
+Beispiel stringName.includes("was ich suche") --> Ergebnis true oder false. Achtung Case Sensitiv
+
+Beispiel
+string.replace("was ich suche","durch was ich es ersetze"); Nur der erste genannte Punkt wird umbenannt.gibt den neuen String zurück. der Alte wird nciht verändert
+
+string.replaceAll("was ich suche","durch was ich es ersetze"); alle gesuchten Objekte werden umbenannt.gibt den neuen String zurück. der Alte wird nciht verändert
+string.split(). ich bekomme ein Array zurück. benötigt einen Seperator. Wenn kein Seperator gegeben wird nach jedem Zeichen aufgetrennt
+sentence.split(""); ich bekomme jeden Buchstaben einzeln dargelegt. (" ") Seperator ist ein Leerzeichen
+
+string.IndexOf(" ") sucht einen gegebenen String und gibt die erste Position dieses Strings. Also in diesem Fall Position des ersten Leezeichens
+oder suche ab dem ersten Leerzeichen string.indexOf(" ",string.IndexOf(" ")+1)
+Wenn das Zeichen nicht enthalten ist kommt "-1" zurück
+
+string.repeat("wie oft wiederholen")  der String wird vervielfacht und neu zurückgegeben.
+
+Casing
+string.toLowerCase(); Alle Buchstaben werden klein geschrieben
+string.toLowerCase(); Alle Buchstaben werden groß geschrieben
+
+
+## Callback Functions
+
+1ich kann eine Function zu einer Variable zuweisen. 
+
+function xy() {
+console.log("abc") }
+
+const test = xy -- Achtung hier ohne Klammern
+nun kann ich die Funktion auch aufrufen indem ich xy() angebe
+
+Anonyme Funktionen
+Funktionen ohne Name
+const sayHello = function() {
+console.log("Hello")
+}
+
+sayHello()
+
+
+
+function as Parameters. Im Prinzip wie ein Callback funktioniert
+![Bild_function_as_parameters](https://user-images.githubusercontent.com/104325830/169482855-4d2d72a7-3589-461c-acee-faed306d0a8c.JPG)
+
+
