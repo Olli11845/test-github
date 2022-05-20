@@ -50,6 +50,17 @@ string.toLowerCase(); Alle Buchstaben werden klein geschrieben
 string.toLowerCase(); Alle Buchstaben werden groß geschrieben
 
 
+### Array API Essentials
+array.reverse();
+array.join();  macht ein array zu einem String. getrennt mit , man kann es auch ändern array.join("-"); so ist der Seperator -
+arr.includes(2) <-- ist eine 2 in dem Array enthalten? true oder false
+array.forEach() <--
+nimmt eine Callback function entgegen für jeden Eintrag des Arrays. kann einen for Loop ersetzen <br>![for_each array](https://user-images.githubusercontent.com/104325830/169485479-7b552a00-9043-4f31-b447-1340d204793e.JPG)
+<br>
+
+ 
+ 
+
 ## Callback Functions
 
 1ich kann eine Function zu einer Variable zuweisen. 
@@ -73,16 +84,5 @@ sayHello()
 function as Parameters. Im Prinzip wie ein Callback funktioniert <br>
 ![Bild_function_as_parameters](https://user-images.githubusercontent.com/104325830/169482855-4d2d72a7-3589-461c-acee-faed306d0a8c.JPG)
 <br>
-
-### Array API Essentials
-array.reverse();
-array.join();  macht ein array zu einem String. getrennt mit , man kann es auch ändern array.join("-"); so ist der Seperator -
-arr.includes(2) <-- ist eine 2 in dem Array enthalten? true oder false
-array.forEach() <--
-nimmt eine Callback function entgegen für jeden Eintrag des Arrays. kann einen for Loop ersetzen <br>![for_each array](https://user-images.githubusercontent.com/104325830/169485479-7b552a00-9043-4f31-b447-1340d204793e.JPG)
-<br>
-
- 
- 
 
 
