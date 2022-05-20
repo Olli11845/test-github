@@ -66,7 +66,7 @@ sayHello()
 
 
 
-function as Parameters. Im Prinzip wie ein Callback funktioniert
+function as Parameters. Im Prinzip wie ein Callback funktioniert <br>
 ![Bild_function_as_parameters](https://user-images.githubusercontent.com/104325830/169482855-4d2d72a7-3589-461c-acee-faed306d0a8c.JPG)
 
 
