@@ -48,3 +48,6 @@ Wenn wir true falls abfragen vor zB elseif machen müssen wir nicht noch schreib
 
 wenn wir beispielsweise x=true haben kann man das umkehren zu !x=false
 
+
+Wichtige Website: `devdocs.io`
+
