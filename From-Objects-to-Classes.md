@@ -23,3 +23,23 @@ Wenn ich aber Objekte kopiere die Kopien enthalten funktioniert das nicht. Denn 
 **Recap Objects**
 <br>![objects_Recap](https://user-images.githubusercontent.com/104325830/170054052-ec4e63e5-e6d3-47e1-9eb5-75db3b3b6d64.JPG)
 <br>
+
+
+## Objekt Methoden und this
+In Objekten können Funktionen hinterlegt werden.
+quasi Mini Programme in einem großen Programm hinterlegen.
+
+Funktion in einem Objekt --> Methode.<br>![Function in Objetcs](https://user-images.githubusercontent.com/104325830/170059886-96ac3056-5e89-4347-99d6-d3f48e4c4f86.JPG)
+<br>
+In dem Bild ist es eine anonyme function. Also eine, welche sofort aufgerufen werden kann.
+
+`this` keyword. Bezieht sich immer auf das Object in dem man gerade ist. also `this.x` ruft den x Key des Objektes auf in dem wir gerade stehen <br> 
+![this in objects](https://user-images.githubusercontent.com/104325830/170062096-47ce5f58-2959-4c30-b6c0-41410839dd11.JPG) <br>
+
+
+
+
+
+
+
+
