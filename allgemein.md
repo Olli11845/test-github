@@ -52,4 +52,9 @@ wenn wir beispielsweise x=true haben kann man das umkehren zu !x=false
 **Wichtige Website: `devdocs.io`**
 
 
+regular expressions ; RegEx.
+um bestimmte Buchstaben beispielsweise anzusprechen oder um zu prüfen ob die EMail Adresse ein @ enthält.
+
+
+
 
