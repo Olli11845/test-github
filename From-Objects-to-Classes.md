@@ -37,6 +37,13 @@ In dem Bild ist es eine anonyme function. Also eine, welche sofort aufgerufen we
 ![this in objects](https://user-images.githubusercontent.com/104325830/170062096-47ce5f58-2959-4c30-b6c0-41410839dd11.JPG) <br>
 
 
+## this Keyword
+
+**Das this keyword zeigt immer auf seinen execution context**
+Achtung: JS kann einen fixen this context setzen
+
+wenn man es im Global scope ausführt zeigt es window an. Oder genauso in Node.js --> es zeigt global object an.
+
 
 
 
