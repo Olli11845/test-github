@@ -63,6 +63,11 @@ Classes können Funktionen haben --> methods
 <br>
 Gut dargestellt im live coding video zu Klassen.
 
+Beim ERstellen wird nur die Constructor Funktion ausgeführt! Es sei denn man zwingt ihn innerhalb des Constrctors zu etwas.
+<br>
+![comet class](https://user-images.githubusercontent.com/104325830/170663705-853cab09-0e80-4745-a4de-6c802c18c44c.JPG)
+<br>
+
 
 ## Arrow Functions
 Funktionen ohne das function Keyword
