@@ -24,5 +24,37 @@ Ich kann javascript Dateien auch laden. `.js`kennzeichnet Javascript Dateien -->
 
 Javascript Dateien oder scripts werden in ihrer geschriebenen Reihenfolge ausgeführt
 
+JS Dateien immer am Ende des HTML Dokuments --> Damit zunächst das HTML Zeug geladen wird.
+
+Js dateien innerhalb des Dokuments können `defer`oder àsync`Attribute enthalten. Die könnte den Standard ändern. <-- Ladereihenfolge wird geändert
+
+
+## Browser Environment
+
+console.log() schreibt in die Konsole des Browsers
+console.warn() schreibt auf die debbugging Konsole
+
+
+`window` verweist auf das Tab, welches in diesem Browser läuft. `windows.console.log()`
+`document` auch global verfügbar. document.title ist der Titel des Dokuments, `document.head`, `document.body`
+
+Also kann ich im JS etwas ändern
+
+document.title = "Hello"
+
+
+## The Document Object Model aka DOM
+
+DOM = Ist die Api die mit dem HTML dokument interagiert
+
+A **node** kann folgendes sein: Ein HTML Element, ein Kommenatr, ein Stück eines HTML Elements
+
+
+
+
+
+
+
+
 
 
