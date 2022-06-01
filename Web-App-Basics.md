@@ -49,6 +49,30 @@ DOM = Ist die Api die mit dem HTML dokument interagiert
 
 A **node** kann folgendes sein: Ein HTML Element, ein Kommenatr, ein Stück eines HTML Elements
 
+nodes können genutzt werden um Elemente gleicher Klasse zu bearbeiten.
+
+Jede Node hat eine Klasse --> Es können auch mehr sein.
+
+check mdn web docs --> element.
+
+
+children property --> mit der Children property kann ich mir die Liste aller Kinderelemente geben lassen.
+
+bsp: document.body.children;
+
+`childnodes`sind alle (nicht nur Elemente, sondern auch Zeichen Steuerzeichen etc.)
+bsp.: document.body.childnodes
+
+
+queryselector ==> innerhalb eines Elements nach Elementen suchen.
+body
+.cool
+main > section
+
+gibt **das erste Element** zurück was darauf passt.
+Wenn ich nichts finde --> "null"
+
+
 
 
 
