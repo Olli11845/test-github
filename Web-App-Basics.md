@@ -81,12 +81,41 @@ document.querySelectorAll("article")
 ich bekomme alle article die im Document sind.
 
 
+## Events and Event Handling
+
+bsp etwas wird geklickt.
+
+es gibt 3 Event Phasen. von oben zu dem Elemt wo es passiert (capture Phase, es trifft ein (Target Phase) und es wieder zur Wurzel (Bubble Phase)
+
+Event Types and namnes
+click
+keyup,keydown,keypress
+input, change
+
+Event reference on MDN
+
+`addEventListener(eventType, callback)`
+
+wenn ich darüber liegende Buttons habe werden auch diese ausgeführt (bubble Phase). --> der addEventListener nutzt die bubble Phase.
+
+### nur Target Phase nutzen
+Wenn ich nur die Target Phase nutzen will `addEventListener(eventType, callback, true)`  <--- braucht man selten
+
+
+ich kann auch in die Callback funktion den Parameter mitgeben. Also mit hereingeben ob ich z.B. über einen Klick dorthin gelangt bin.
+function(event)
+event.target --> auf welchen Button wurde geklickt
+event.eventPhase --> in welcher Phase wurde es gewählt (0 = event is not processed, 1= Capture Phase, 2 Target Phase, 3 bubble Phase)
+event.currentTarget --> auf welchem Element befinden wir uns gerade (als auch das wo wir nur drüber wandern.
+
+event.stopPropagation --> es wird an diesem Punkt abgebrochen und wandert nicht weiter durch die Phasen (Capture, Target, Bubble)
+use cases: wenn ich eine Liste mit gleichen Dingen habe. 
 
 
 
+this verweist darauf wo die funktion ausgelöst wurde. Bspw.: console.log(this()) --> eventButton
 
-
-
-
-
-
+Beispiele aus dem Lice Coding
+<br>
+![buttonclick](https://user-images.githubusercontent.com/104325830/171432101-9ea76daf-e20b-4510-985b-fbb32b9072bb.JPG)
+<br>
