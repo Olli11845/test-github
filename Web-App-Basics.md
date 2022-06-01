@@ -68,9 +68,17 @@ queryselector ==> innerhalb eines Elements nach Elementen suchen.
 body
 .cool
 main > section
+main header --> im main nach Header suchen.
 
 gibt **das erste Element** zurück was darauf passt.
 Wenn ich nichts finde --> "null"
+
+
+
+### find multiple elements with qerySelectorAll method
+
+document.querySelectorAll("article")
+ich bekomme alle article die im Document sind.
 
 
 
