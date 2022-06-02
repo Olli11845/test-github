@@ -133,3 +133,27 @@ style --> alle befehle werden im Camel Case geschrieben
 class List kann auch Befehle ausführen --> add, remove, toggle
 
 
+
+## Element Attribute
+Attribute List MDN Attribute
+
+`disabled`
+`src`
+`hidden`
+`value`
+
+
+`hasAttribute()`
+`setAttribute(name, value)` <--> setzt neu oder aktualisiert
+
+oder
+booleanAtrributes
+diese brauchen keinen Wert btn.setAttribute("disabled","");
+
+`removeAttribute(attributeName)`
+
+`getAttribute` --> zeigt die Attribute an
+
+
+
+
