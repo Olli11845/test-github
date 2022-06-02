@@ -119,3 +119,17 @@ Beispiele aus dem Lice Coding
 <br>
 ![buttonclick](https://user-images.githubusercontent.com/104325830/171432101-9ea76daf-e20b-4510-985b-fbb32b9072bb.JPG)
 <br>
+
+
+## Styles ändern
+
+`element.style` wir greifen auf Styling Objekt zu
+`element.classList`  List of CSS classes of the element
+`element.className` eher schlecht zu bennutzen
+
+
+style --> alle befehle werden im Camel Case geschrieben
+
+class List kann auch Befehle ausführen --> add, remove, toggle
+
+
