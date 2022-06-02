@@ -155,5 +155,12 @@ diese brauchen keinen Wert btn.setAttribute("disabled","");
 `getAttribute` --> zeigt die Attribute an
 
 
+`element.type`
+`element.value`
 
+
+custom attributes sind auch mögliche. Diese Strings müssen mit data-*
+
+Beispiel:
+input.setAttribbute("disabled","")
 
