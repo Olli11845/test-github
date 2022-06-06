@@ -164,3 +164,14 @@ custom attributes sind auch mögliche. Diese Strings müssen mit data-*
 Beispiel:
 input.setAttribbute("disabled","")
 
+
+
+
+### the text content of elements
+
+`textContent` gibt den Text des Elements und aller Kinder Elemente inklusive aller script und style tags
+
+`innerText` gibt den Text vom Elementen und von den Kinderelementen. wenn visibility auf hidden gesetzt ist wird es angezeigt. Wenn es auf display:none gesetzt ist dann nicht
+
+
+`textContent`oder `innerText` wenn ich etwas reinschreibe wird alles gelöscht
