@@ -206,8 +206,19 @@ JSON.parse() --> Turn JSON into JS
 
 ### Local Storage
 
+Speicher auf dem Browser
+
+document origin wird definiert durch Protocol, Host/DOmain, Port,
+
+`localStorage` oder `window.localStorage`
+
+localStorage.setItem(name,data); wenn man objecte reinschreiben will, dann muss man es vorher: Stringify
+localStorage.getItem(name);
+localStorage.removeItem();
+localStorage.clear();
 
 
+Gegen null prüfen. Auch User kann den Local Storage clearen
 
 
 
