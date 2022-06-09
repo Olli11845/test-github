@@ -204,5 +204,12 @@ JSON API
 JSON.Stringify() --> Turn JS into JSON (es wird ein String der Daten erzeugt) ACHTUNG. geht nicht bei Funktionen. Die fliegen raus
 JSON.parse() --> Turn JSON into JS
 
+### Local Storage
+
+
+
+
+
+
 
 
