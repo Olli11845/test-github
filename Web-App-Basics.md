@@ -175,3 +175,15 @@ input.setAttribbute("disabled","")
 
 
 `textContent`oder `innerText` wenn ich etwas reinschreibe wird alles gelöscht
+
+
+### dynamically creating elements in JS
+
+`document.createElement(elementName)` nach der ERstellung muss noch angegeben werden wo es im DOM ist.
+
+`appendchild` wird an das Ende der Chilfren drangehängt. document.bodyappendChild(h1); <-- wird an das Ende aller Kinerelemente von Body angehängt. wenn es schon an einer Stelle ist wird es rausgezigen und an die neue Stelle gehängt.
+
+
+`document.createTextNode()` so kann text erstellt werden, welcher dann in den bestehenden HTML Code eingegeben wird
+<br>![text Node](https://user-images.githubusercontent.com/104325830/172793594-31b20430-4560-4a1f-834e-a3b863ba2d4e.JPG)<br>
+
