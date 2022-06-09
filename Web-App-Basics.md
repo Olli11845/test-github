@@ -187,3 +187,22 @@ input.setAttribbute("disabled","")
 `document.createTextNode()` so kann text erstellt werden, welcher dann in den bestehenden HTML Code eingegeben wird
 <br>![text Node](https://user-images.githubusercontent.com/104325830/172793594-31b20430-4560-4a1f-834e-a3b863ba2d4e.JPG)<br>
 
+
+`insertBefore` 
+<br>
+![insertBefore](https://user-images.githubusercontent.com/104325830/172808859-3f5bfe75-5f38-440b-9814-7e17658012cb.JPG)
+<br>
+
+sehr hilfreich. Live Coding Video
+
+### JSCON
+JavaScript Object Notation
+
+schickt DAten an einen Speicher --> Serialization
+
+JSON API
+JSON.Stringify() --> Turn JS into JSON (es wird ein String der Daten erzeugt) ACHTUNG. geht nicht bei Funktionen. Die fliegen raus
+JSON.parse() --> Turn JSON into JS
+
+
+
