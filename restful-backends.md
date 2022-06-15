@@ -45,7 +45,18 @@ rejected --> hat nicht geklappt
 
 fetch methode gibt automatisch ein promise aus.
 
+<br>![response](https://user-images.githubusercontent.com/104325830/173799377-ffd3cbc6-5701-495a-9f44-e54332081e39.JPG) <br>
 
 um die Ergebnisse dann aufzurufen, wenn die Daten da sind muss die json Methode aufgerufen werden
 
-<br>![response](https://user-images.githubusercontent.com/104325830/173799377-ffd3cbc6-5701-495a-9f44-e54332081e39.JPG) <br>
+oder hier vollständig: Erst Laden und dann Daten abrufen:
+<br>![erst response dann DAten](https://user-images.githubusercontent.com/104325830/173800018-5791465e-2e54-445d-8589-ebc5942c9661.JPG)
+<br>
+![fetch Abfrage](https://user-images.githubusercontent.com/104325830/173803016-5c9433d5-88fc-4dbf-bae8-d7c32b56f907.JPG)
+<br>
+
+
+
+
+
+
