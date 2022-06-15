@@ -43,6 +43,9 @@ fulfilled --> erfolgreich durchgeführt
 rejected --> hat nicht geklappt
 
 
+fetch methode gibt automatisch ein promise aus.
 
 
+um die Ergebnisse dann aufzurufen, wenn die Daten da sind muss die json Methode aufgerufen werden
 
+<br>![response](https://user-images.githubusercontent.com/104325830/173799377-ffd3cbc6-5701-495a-9f44-e54332081e39.JPG) <br>
