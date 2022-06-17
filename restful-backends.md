@@ -55,7 +55,11 @@ oder hier vollständig: Erst Laden und dann Daten abrufen:
 ![fetch Abfrage](https://user-images.githubusercontent.com/104325830/173803016-5c9433d5-88fc-4dbf-bae8-d7c32b56f907.JPG)
 <br>
 
+## Introduction to Node.js
 
+wir wollen eine API laufen lassen.
+
+eine laufzeitumgebung. Die uns erlaubt JS außerhalb des Browsers zu nutzen.
 
 
 
