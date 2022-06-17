@@ -61,6 +61,43 @@ wir wollen eine API laufen lassen.
 
 eine laufzeitumgebung. Die uns erlaubt JS außerhalb des Browsers zu nutzen.
 
+node.filename.js
+
+um es zu starten.
+
+zweite Funktion von node:
+man kann javascript in node ausführen lassen.
+
+
+LTS Version von Node benutzen
+
+node hat eingebaute features und außerdem externe.
+
+man kann über node.js kommunizieren mit anderen PCs, Sprachen, Computern etc...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
