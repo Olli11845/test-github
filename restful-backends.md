@@ -80,7 +80,13 @@ man kann über node.js kommunizieren mit anderen PCs, Sprachen, Computern etc...
 
 
 
+node js.
 
+node --version
+
+nvm use --lts
+
+wechselt auf die lts Version
 
 
 
