@@ -88,7 +88,17 @@ nvm use --lts
 
 wechselt auf die lts Version
 
+
+
+
 ## Project Setup with Node.js and NPM
+
+Node Package Manager
+
+npmjs.org registry. Dort sind alle Pakete veröffentlicht
+
+Open Source heißt nciht dass man es immer ohne Kosten nutzen kann -> bspw. haben diese teilweise Fehler
+teilweise leben viele Open Source Projekte von Spenden.
 
 
 
