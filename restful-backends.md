@@ -100,8 +100,10 @@ npmjs.org registry. Dort sind alle Pakete veröffentlicht
 Open Source heißt nciht dass man es immer ohne Kosten nutzen kann -> bspw. haben diese teilweise Fehler
 teilweise leben viele Open Source Projekte von Spenden.
 
+Lizenzen bei Open Source --> Author should get credit. Vor allem Unternehmen müssen das machen.
 
-
+`Comparison of licences`
+`Guide to open source licenses`
 
 
 
