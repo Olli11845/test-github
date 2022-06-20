@@ -118,6 +118,21 @@ oder
 
 zum Hinzufügen des packages:
 npm install <packageName>
+  
+  das Packet wird zu dependencie
+ 
+
+dargestellt wird dies natürlich in package.json
+  
+die node packages liegen in `node_modules`wir müssen diesen ordner für git ignorieren. `.gitignore`. da ja nur unser eigener Code in Git landen soll
+  
+  aber wichtig: package.json gehört in git
+  
+
+  
+
+
+
 
 
 
