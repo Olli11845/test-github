@@ -106,7 +106,18 @@ Lizenzen bei Open Source --> Author should get credit. Vor allem Unternehmen mü
 `Guide to open source licenses`
 
 
+in der Datei package.json wird gespeichert, welche Pakete wir benutzen.
 
+nur diese Datei packen wir in mein Repository. Also nur die Info was wir nutzen nicht den Code selbst mit in Git commiten
+
+
+`npm init` damit können wir unser Repository um ein Element aus der Bibliothek erweitern.
+oder 
+`npm init --yes` Standard setup. man wird ncihts gefragt. eine leere package.json wird angelegt
+
+
+zum Hinzufügen des packages:
+npm install <packageName>
 
 
 
