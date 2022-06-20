@@ -129,8 +129,21 @@ die node packages liegen in `node_modules`wir müssen diesen ordner für git ign
   aber wichtig: package.json gehört in git
   
 
+wenn jemand dann später mein Projekt nutzen will muss er es klonen und `npm install` befehlen. DAnn werden automatisch alle packages aus der package JSON installiert.
+  
+  
+  npm scripts sind Befehle die man in der package json hinterlegen kann.
+  
+  
+  im ordner
+  
+  `touch.gitignore`
+   und dann in der Datei
+  /node_modules/
+  
   
 
+  
 
 
 
