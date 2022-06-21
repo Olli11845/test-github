@@ -144,11 +144,20 @@ wenn jemand dann später mein Projekt nutzen will muss er es klonen und `npm ins
   
 
   
+## REST
+  
+  Endpoints points sind im Grunde genommen URLs
+  
+  HTTP Methoden
+  
+  GET Read Data
+  POST creates Data
+  PUT Update Data
+  Delete delete Data
 
 
-
-
-
+Get /todos/  --> gibt todos als JSON an
+Get/todos/1 --> gibt id 1 zurück
 
 
 
