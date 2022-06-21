@@ -160,11 +160,37 @@ Get /todos/  --> gibt todos als JSON an
 Get/todos/1 --> gibt id 1 zurück
 
 
+Post erstellt einen eintrag im Backend.
+
+  Put kann Daten im Backed updaten 
+    Das Backend gibt die Daten die erstellt wurden immer nochmal zurück
 
 
-
-
-
-
-
-
+git todo aoi klonen in eine repository von mir
+im Ordner npm install --> um open source zu laden
+  npm run start
+  
+  dann läuft diese Api auf meinem Rechner. Konsole muss dafür offen sein
+  Stoppen mit Ctrl + C oder schließen
+  http://localhost:4730
+  
+  postman wird genutzt um mit API zu interagieren.
+  
+  wenn etwas schiefgeht und man es resetten will.
+  Stop API Ctrl + C
+  
+  rm db.json
+  <br> 
+  
+  ![wiederherstellen Postman](https://user-images.githubusercontent.com/104325830/174758450-ecfa29e4-b7ab-4933-8e29-0e3a94a04ecc.JPG)
+<br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
