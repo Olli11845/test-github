@@ -184,13 +184,23 @@ im Ordner npm install --> um open source zu laden
   
   ![wiederherstellen Postman](https://user-images.githubusercontent.com/104325830/174758450-ecfa29e4-b7ab-4933-8e29-0e3a94a04ecc.JPG)
 <br>
+   
+  
+  ### API and Fetch
+      
+  ![fetch](https://user-images.githubusercontent.com/104325830/175019833-bbf24d8f-0fe8-4513-b456-2f484e7e36a3.JPG)
+
+  PUT mit Fetch:
+  
+  ![fetch2](https://user-images.githubusercontent.com/104325830/175020934-c9b7d4a5-2932-40f4-ad78-6b9f94cc7234.JPG)
+
+ <br>
   
   
+  Delete mit Fetch
   
-  
-  
-  
-  
+  ![delete mit fetch](https://user-images.githubusercontent.com/104325830/175021775-8f0ae362-de19-46f2-a53c-094a9736e8d0.JPG)
+
   
   
   
