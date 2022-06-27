@@ -1,0 +1,44 @@
+# testing
+manual testing
+and automated testing
+
+### manual testing
+manuelles testen ist das was man automatisch schon nebenbei macht. Problem: Es ist nicht skalierbar.
+
+reicht auf keinen Fall aus
+
+### automated testing
+muss vom Tooling getrennt sein.
+
+von google
+small tests
+medium tests
+large tests
+
+--> es geht um die Sicherheit und Abhängigkeit der Tests
+
+bei uns:
+Unit Test --> Tests der keinen Einfluss auf den DOM hat.
+
+End-to-End Testet die ganze Application im Browser
+
+
+
+### pure functions
+
+gleiche Parameter rein dann gibt sie immer das gleiche aus.
+darf z.b. nicht lesen oder schreiben in globale Variablen
+
+
+wenn globale Variablen gebraucht werden, kann man diese nochmal selbst übergeben.
+
+### End to End
+End to End tut so als wäre der Test ein User.
+langsamer als Unit Test
+
+
+### Test Pyramide
+
+wenig manuelle Tests
+mittel E2E
+viele unit tests
