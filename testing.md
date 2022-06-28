@@ -42,3 +42,20 @@ langsamer als Unit Test
 wenig manuelle Tests
 mittel E2E
 viele unit tests
+
+
+wichtig. Keyword `cy` bei den cyprus Befehlen
+Die API ist fluent... also alles in einer Reihe
+
+`cy.get("selector")`
+
+`cy.should("selector")`
+
+`beforeEach` Funktion. Zum Beispiel: Vor jedem Test öffnest du diese Seite.
+
+
+Querying Elements
+cy.get(); so wie querySelectorAll.
+cy.get("article").find("h2")
+
+
