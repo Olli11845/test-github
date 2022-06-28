@@ -59,3 +59,18 @@ cy.get(); so wie querySelectorAll.
 cy.get("article").find("h2")
 
 
+Eigene Attribute anlegen
+`data-cy`="todo-input"
+
+`click`
+`blur`
+`check`
+`type`
+
+man kann alles machen was man auch als regulärer Besucher machen kann.
+
+check nochmal:
+
+`cypress docs`
+
+
