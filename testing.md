@@ -73,4 +73,15 @@ check nochmal:
 
 `cypress docs`
 
+### Refactoring
+
+Unit Testing in der Regel in Node environment. D.h. query Selector oder addEventlistener funktionieren nicht
+
+ecma script ist nachträglich hinzugekommen.
+
+daher muss `type:"module"` hinzufügen
+
+
+
+
 
