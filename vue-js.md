@@ -55,4 +55,6 @@ sonst in der Dev Tool.
 data properties
 local storage
 
+fast alle direktiven in vue fangen mit v- an.
+
 
