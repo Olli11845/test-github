@@ -58,3 +58,8 @@ local storage
 fast alle direktiven in vue fangen mit v- an.
 
 
+## templates
+
+man kann in templates bspw verschiedene APIs auf gleiche weise darstellen. Daten kommen rein und werden in das Template gepackt
+
+`{{  }}`
