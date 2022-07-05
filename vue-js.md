@@ -63,3 +63,12 @@ fast alle direktiven in vue fangen mit v- an.
 man kann in templates bspw verschiedene APIs auf gleiche weise darstellen. Daten kommen rein und werden in das Template gepackt
 
 `{{  }}` Achtung: HTML Tags darin werden als Klartext angegeben. GEfahr: Cross Site Scripting
+
+
+## directives
+vue directives sind Attribute in HTML.
+immer: `v-"..."`,
+daher: `v-text="'Hello World'";
+
+`v-on:click` bei (klick) passiert etwas. 
+
