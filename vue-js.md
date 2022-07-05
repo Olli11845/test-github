@@ -82,3 +82,6 @@ v-text: stellt Text dar. Vereinfacht Verbindung zu JS
 v-html: kann html text annehmen
 v-once: rendert nur einmal
 v-pre: Text wird nur noch dargestellt. auch {{ }}
+v-bind:
+v-model: 2 way data binding. Bspw checkbox an etwas binden
+
