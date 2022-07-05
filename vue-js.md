@@ -94,5 +94,15 @@ Wichtig Mustach geht nicht. Das geht nicht für Attribute
 `v-bind:class="bgcolor"`
 `v-bind:src="src`
 
+v-bind merged, also verbindet verschiedenen
+<br>
+![v-bind](https://user-images.githubusercontent.com/104325830/177355545-cbed5f6f-6597-4452-af6d-0b27e51246ea.JPG)
+</br>
 
+Shortcut
 
+v-bind:class="..." --> :class="..."
+
+wenn man in einem String code einbauen will. keine ' ,sondern ` ` `
+
+ 
