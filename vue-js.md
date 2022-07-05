@@ -103,8 +103,8 @@ Shortcut
 
 v-bind:class="..." --> :class="..."
 
-wenn man in einem String code einbauen will. keine ' ,sondern "` ` `"
+wenn man in einem String code einbauen will. keine ' ,sondern '`'
 <br>
 
-"`das ist der String ${stringName}`
+"'`'das ist der String ${stringName}'`'"
  
