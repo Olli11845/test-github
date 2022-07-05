@@ -72,3 +72,9 @@ daher: `v-text="'Hello World'";
 
 `v-on:click` bei (klick) passiert etwas. 
 
+eigene directiven erstellen. Hier die directive highlight:
+darin steht wann das ganze ausgeführt wird. in diesem Fall bei mount.
+<br>
+![eigene directive erstellen](https://user-images.githubusercontent.com/104325830/177301864-85dff2fd-fc78-495a-8e5d-915795be3188.JPG)
+<br>
+
