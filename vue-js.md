@@ -85,3 +85,14 @@ v-pre: Text wird nur noch dargestellt. auch {{ }}
 v-bind:
 v-model: 2 way data binding. Bspw checkbox an etwas binden
 
+
+### Attribute Binding
+Data properties auf HTML Elemente binden
+
+Wichtig Mustach geht nicht. Das geht nicht für Attribute
+
+`v-bind:class="bgcolor"`
+`v-bind:src="src`
+
+
+
