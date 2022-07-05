@@ -78,3 +78,7 @@ darin steht wann das ganze ausgeführt wird. in diesem Fall bei mount.
 ![eigene directive erstellen](https://user-images.githubusercontent.com/104325830/177301864-85dff2fd-fc78-495a-8e5d-915795be3188.JPG)
 <br>
 
+v-text: stellt Text dar. Vereinfacht Verbindung zu JS
+v-html: kann html text annehmen
+v-once: rendert nur einmal
+v-pre: Text wird nur noch dargestellt. auch {{ }}
