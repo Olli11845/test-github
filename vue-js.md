@@ -107,4 +107,12 @@ wenn man in einem String code einbauen will. keine ' ,sondern '`'
 <br>
 
 '"`das ist der String ${stringName}`"' in Edit anschauen
- 
+
+
+
+special Attribute:
+:key
+:ref
+:is
+
+
