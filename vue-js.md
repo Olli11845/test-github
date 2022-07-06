@@ -115,5 +115,7 @@ special Attribute:
 :ref
 :is
 
+:id="dieserNameWirdGeholtAusJS"
+
 
 ### class and style binding
