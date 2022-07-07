@@ -139,3 +139,6 @@ man kann auch eine CSS Klasse wie folgt benennen. Man greift über Vue auf ein O
 <br>
 ![conditional class vue](https://user-images.githubusercontent.com/104325830/177733928-fe783fbf-6208-4dee-9846-2b2973d26477.JPG)
 <br>
+
+class binding vue.js
+`:class` 
