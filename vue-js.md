@@ -156,3 +156,16 @@ alternativ um etwas auszublenden
 ![v-show](https://user-images.githubusercontent.com/104325830/177766994-98674fd8-e377-4ceb-bee1-144854db87c8.JPG)
 <br>
 
+### List rendering
+
+v-bind:key
+:key attribute
+
+v-for gilt für `for of` und `for in`
+<br>
+![v-for](https://user-images.githubusercontent.com/104325830/177814699-777280a6-88b1-4662-9deb-9a4024f12353.JPG)
+<br>
+ich habe so viele li wie einträge im array
+
+
+
