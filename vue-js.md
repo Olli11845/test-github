@@ -134,4 +134,5 @@ style binding mit object syntax:
 ![style attribute cue](https://user-images.githubusercontent.com/104325830/177729140-1288be90-e278-4261-98e0-571a1a5c147d.JPG)
 <br>
 
+man kann auch eine CSS Klasse wie folgt benennen. Man greift über Vue auf ein Objekt zu, welches in CSS ist. Der Key des Objektes ist die CSS Klasse und wenn der Wert ein Boolean ist kann man diese Klasse mit true oder false ein oder ausschalten
 
