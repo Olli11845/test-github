@@ -142,3 +142,17 @@ man kann auch eine CSS Klasse wie folgt benennen. Man greift über Vue auf ein O
 
 class binding vue.js
 `:class` 
+
+
+### Vue if
+
+wichtig die in diesem Fall div's müssen aufeinander folgen
+<br>
+![vue if](https://user-images.githubusercontent.com/104325830/177766741-1cf8cd84-7eb7-4a67-b02b-0c1334e09df9.JPG)
+<br>
+
+alternativ um etwas auszublenden
+<br>
+![v-show](https://user-images.githubusercontent.com/104325830/177766994-98674fd8-e377-4ceb-bee1-144854db87c8.JPG)
+<br>
+
