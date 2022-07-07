@@ -119,3 +119,19 @@ special Attribute:
 
 
 ### class and style binding
+
+class bindung
+
+v-bind:class=
+man kann im Array mehrere CSS Klassen hintereinander schreiben. Vue rendert das zu einem String
+
+<br>
+![vue classes](https://user-images.githubusercontent.com/104325830/177728186-98ef8b5a-f280-455c-8202-e2eb7c2c9e20.JPG)
+<br>
+
+style binding mit object syntax:
+<br>
+![style attribute cue](https://user-images.githubusercontent.com/104325830/177729140-1288be90-e278-4261-98e0-571a1a5c147d.JPG)
+<br>
+
+
