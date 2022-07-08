@@ -184,3 +184,14 @@ alternativ:
 <br>
 ![live session for in vue](https://user-images.githubusercontent.com/104325830/177945708-4817c765-5fb5-4c20-81a4-c8b835a46cf7.JPG)
 <br>
+
+
+### computed properties and Methods
+computed properties bringen performance Vorteile
+`computed`
+<br>
+![computed](https://user-images.githubusercontent.com/104325830/177975882-ec2d771f-cb55-4b8f-9e08-508314be579a.JPG)
+<br>
+
+
+
