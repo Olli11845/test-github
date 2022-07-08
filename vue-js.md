@@ -171,5 +171,5 @@ ich habe so viele li wie einträge im array
 wenn ich eine for Schleife auf einem DIV container mache habe ich danach 10 DIVs
 gebraucht wird ein v-bind:key Attribut.
 
-
+wenn man mit v-for über ein Objekt iteriert, dann wird immer zuerst der value und dann der key angegeben.
 
