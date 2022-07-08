@@ -191,7 +191,22 @@ computed properties bringen performance Vorteile
 `computed`
 <br>
 ![computed](https://user-images.githubusercontent.com/104325830/177975882-ec2d771f-cb55-4b8f-9e08-508314be579a.JPG)
+<br>![outsource condition](https://user-images.githubusercontent.com/104325830/177979263-b9b3915d-176f-4fb6-8aa2-a446833b6785.JPG)
 <br>
+
+
+computed properties nochmal anschauen.
+
+Methods:
+wird angewendet wenn eine computed property zu komplex wird
+
+
+<br>
+![methods and custom properties](https://user-images.githubusercontent.com/104325830/177982400-16fbebe4-3040-4696-b9e4-187d89e5b9c6.JPG)
+<br>
+
+data properties sind innerhalb vue instanz mit `this` referenziert
+
 
 
 
