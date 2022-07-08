@@ -182,3 +182,5 @@ v-if und v-for nicht zusammen benutzen!!!!
 alternativ:
 <br>![v-if und v-for](https://user-images.githubusercontent.com/104325830/177944268-05cd0180-00ca-4604-b67d-1f10ed196dd3.JPG)
 <br>
+![live session for in vue](https://user-images.githubusercontent.com/104325830/177945708-4817c765-5fb5-4c20-81a4-c8b835a46cf7.JPG)
+<br>
