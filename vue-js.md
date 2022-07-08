@@ -168,4 +168,8 @@ v-for gilt für `for of` und `for in`
 ich habe so viele li wie einträge im array
 
 
+wenn ich eine for Schleife auf einem DIV container mache habe ich danach 10 DIVs
+gebraucht wird ein v-bind:key Attribut.
+
+
 
