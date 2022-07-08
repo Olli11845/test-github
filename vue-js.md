@@ -173,3 +173,12 @@ gebraucht wird ein v-bind:key Attribut.
 
 wenn man mit v-for über ein Objekt iteriert, dann wird immer zuerst der value und dann der key angegeben.
 
+wenn man sich das dritte Argument dahinter eingibt `index` kann auch anders benannt werden --> dann werden alle Schleifen nummeriert.
+<br>
+![index v-for](https://user-images.githubusercontent.com/104325830/177943323-f7207da4-4daa-4013-8cc7-3753f94d3b9c.JPG)
+<br>
+
+v-if und v-for nicht zusammen benutzen!!!!
+alternativ:
+<br>![v-if und v-for](https://user-images.githubusercontent.com/104325830/177944268-05cd0180-00ca-4604-b67d-1f10ed196dd3.JPG)
+<br>
