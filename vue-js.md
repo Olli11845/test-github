@@ -208,5 +208,7 @@ wird angewendet wenn eine computed property zu komplex wird
 data properties sind innerhalb vue instanz mit `this` referenziert
 
 
+**v-bind nochmal anschauen**
+
 
 
