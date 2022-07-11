@@ -213,6 +213,10 @@ data properties sind innerhalb vue instanz mit `this` referenziert
 Keywords
 
 `computed` <br>
-`methods`
+
+<br>
+`methods` --> werden viel in Kombination mit Events genutzt
+<br>![method vue](https://user-images.githubusercontent.com/104325830/178231118-299443c3-2da0-4391-8830-fc9fd1eb03db.JPG)
+<br>
 
 
