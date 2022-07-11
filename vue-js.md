@@ -210,6 +210,9 @@ data properties sind innerhalb vue instanz mit `this` referenziert
 
 **v-bind nochmal anschauen**
 
+Keywords
 
+`computed` <br>
+`methods`
 
 
